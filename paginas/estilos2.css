@@ -1,0 +1,66 @@
+
+body {
+    
+	color: rgb(233, 239, 233);
+	font-family: 'Times New Roman', Times, serif;
+	font-style: unset;
+    font-size: 25px;
+    background: #041d5d url("../imagenes/fondo1.jpg"  ) center ;
+    
+
+    font-family: 'Times New Roman', Times, serif
+
+}
+
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+
+h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+
+h2 {
+    margin-top: 10px;
+    font-size: 24px;
+}
+
+
+main {
+    padding: 20px;
+}
+
+
+section {
+    margin-bottom: 20px;
+}
+
+
+a {
+    color: #fdfdfe;
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+footer {
+    background-color: #7b1111;
+    color: #fff;
+    text-align: center;
+    padding: 11px;
+    position: absolute:
+    width: 100%;
+    height: 7%;
+    bottom: 8;
+}
